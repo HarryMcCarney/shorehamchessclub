@@ -46,6 +46,11 @@ name = "About"
 URL = "about"
 weight = 2
 
+[[menu.main]]
+name = "Competition"
+URL = "competition"
+weight = 3
+
 
 
 [[menu.main]]
