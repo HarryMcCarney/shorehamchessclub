@@ -1,7 +1,7 @@
 
 
 ######################## default configuration ####################
-baseURL = "https://examplesite.com"
+baseURL = "https://shorehamchessclub.com"
 title = "Shoreham Chess Club"
 theme = "twenty-twenty"
 languageName = "En"
@@ -16,6 +16,7 @@ disqusShortname = "" # get your shortname form here : https://disqus.com
 disableLanguages = [] # desable language from here
 # google analytics
 googleAnalytics = "" # example : UA-123-45
+publishDir = "docs"
 
 
 
