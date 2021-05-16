@@ -27,5 +27,6 @@ jobs:
         with:
           personal_token: ${{ secrets.TOKEN }}
           external_repository: HarryMcCarney/shorehamchessclub
-          publish_branch: live
+          publish_branch: master
           publish_dir: ./public
+          keep_files: true
