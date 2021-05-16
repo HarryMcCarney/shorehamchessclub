@@ -1,0 +1,108 @@
+
+
+######################## default configuration ####################
+baseURL = "https://examplesite.com"
+title = "Shoreham Chess Club"
+theme = "twenty-twenty"
+languageName = "En"
+languageCode = "en-us"
+# post pagination
+paginate = "6"
+# post excerpt
+summaryLength = "10"
+# disqus short name
+disqusShortname = "" # get your shortname form here : https://disqus.com
+# disable language
+disableLanguages = [] # desable language from here
+# google analytics
+googleAnalytics = "" # example : UA-123-45
+
+
+
+############################## Output ###############################
+[outputs]
+home = ["HTML", "RSS", "JSON"]
+
+# unsafe html
+[markup.goldmark.renderer]
+unsafe = true
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+author = "author"
+
+############################## navigation ###############################
+
+# main menu
+[[menu.main]]
+name = "Home"
+URL = "/"
+weight = 1
+
+[[menu.main]]
+name = "About"
+URL = "about"
+weight = 2
+
+
+
+[[menu.main]]
+name = "Contact"
+URL = "contact"
+weight = 4
+
+
+#################### default parameters ################################
+[params]
+# Meta data
+description = "This is meta description"
+author = "Themefisher"
+
+# cookies
+[params.cookies]
+enable = true
+expire_days = 2
+
+# banner
+[params.banner]
+heading = "Welcome to Shoreham Chess Club"
+image = "images/queensgambit.png"
+
+# blog
+[params.blog]
+heading = "Every Tuesday we play friendly games and try to get a little better. We are open to everyone of all levels."
+
+# call to action
+[params.call_to_action]
+enable = true
+title = "Contact us for more information."
+content = "We are open to everyone of all levels.  We meet every Tuesday at 7:30pm"
+button_label = "Contact Us"
+button_url = "contact"
+
+# gallery
+[params.gallery]
+enable = true
+
+# [[params.gallery.gallery_item ]]
+# image = "images/2020-square-2.png"
+
+# [[params.gallery.gallery_item ]]
+# image = "images/2020-square-1.png"
+
+
+# footer
+[params.footer]
+title = "“The blunders are all there on the board, waiting to be made.” – Savielly Tartakower"
+content = "Every Tuesday we play friendly games and try to get a little better. The level ranges from people who recently learned the rules to county standard."
+address = "The Duke of Wellington <br> 368 Brighton Rd <br>Shoreham-by-Sea <br> BN43 6RE"
+hours = "Tuesday: 7:30PM–10:00PM"
+copyright = "Copyright &copy; 2021 Shoreham Chess Club"
+
+############################# social site ########################
+[params.social]
+facebook = "#"
+twitter = "#"
+instagram = "#"
+email = "harry@shorehamchessclub.com"
