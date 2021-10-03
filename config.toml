@@ -75,13 +75,13 @@ image = "images/queensgambit.png"
 
 # blog
 [params.blog]
-heading = "Every Tuesday we play friendly games and try to get a little better. We are open to everyone of all levels."
+heading = "Every Wednesday we play friendly games and try to get a little better. We are open to everyone of all levels."
 
 # call to action
 [params.call_to_action]
 enable = true
 title = "Contact us for more information."
-content = "We are open to everyone of all levels.  We meet every Tuesday at 7:30pm"
+content = "We are open to everyone of all levels.  We meet every Wednesday at 7:30pm"
 button_label = "Contact Us"
 button_url = "contact"
 
@@ -99,9 +99,9 @@ enable = true
 # footer
 [params.footer]
 title = "“The blunders are all there on the board, waiting to be made.” – Savielly Tartakower"
-content = "Every Tuesday we play friendly games and try to get a little better. The level ranges from people who recently learned the rules to county standard."
-address = "The Duke of Wellington <br> 368 Brighton Rd <br>Shoreham-by-Sea <br> BN43 6RE"
-hours = "Tuesday: 7:30PM–10:00PM"
+content = "Every Wednesday we play friendly games and try to get a little better. The level ranges from people who recently learned the rules to county standard."
+address = "Sussex Yacht Club <br> 85/89 Brighton Rd<br>Shoreham-by-Sea <br> BN43 6RF"
+hours = "Wednesday: 7:30PM–10:00PM"
 copyright = "Copyright &copy; 2021 Shoreham Chess Club"
 
 ############################# social site ########################
