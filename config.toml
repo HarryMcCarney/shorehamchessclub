@@ -51,6 +51,8 @@ name = "Competition"
 URL = "competition"
 weight = 3
 
+
+
 [[menu.main]]
 name = "Contact"
 URL = "contact"
@@ -106,7 +108,7 @@ copyright = "Copyright &copy; 2021 Shoreham Chess Club"
 
 ############################# social site ########################
 [params.social]
-facebook = "https://www.facebook.com/Shoreham-Chess-Club-107838981486887"
-twitter = "https://twitter.com/ShorehamChess"
-instagram = "https://www.instagram.com/shorehamchessclub/"
+facebook = "#"
+twitter = "#"
+instagram = "#"
 email = "harry@shorehamchessclub.com"
