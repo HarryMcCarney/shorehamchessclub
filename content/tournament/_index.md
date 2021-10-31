@@ -1,5 +1,5 @@
 ---
-title: "Shoreham Rapid Tournament"
+title: "Shoreham Rapid Tournament 2021"
 date: 2021-10-31T16:00:07+01:00
 draft: false
 ---
@@ -24,14 +24,14 @@ The tournament will be a swiss with 6 rounds.  The first round will be seeded ac
 This means each player will have 10 minutes to make all their moves and an extra 5 seconds will be added to the clock for each move.
 
 #### Timetable 
-1st round 10:00am
-2nd round 10:45 am
-3rd round 11:30am
-4th round 12:15am 
-Lunch (venue will provide lunch menu)
-5th round 2:00 pm
-6th round 2:45pm
-Final 3:30 pm
+- 1st round 10:00am
+- 2nd round 10:45 am
+- 3rd round 11:30am
+- 4th round 12:15am 
+- Lunch (venue will provide lunch menu)
+- 5th round 2:00 pm
+- 6th round 2:45pm
+- Final 3:30 pm
 
 
 #### Prizes
