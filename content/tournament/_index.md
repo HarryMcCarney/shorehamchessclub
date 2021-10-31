@@ -17,7 +17,9 @@ There will a bar and restaurant serving the lunch menu. Drinks are allowed at th
 Map is [here](https://shorehamchessclub.com/contact) 
 
 #### Format
-The tournament will be a swiss with 6 rounds.  The first round will be seeded according to Lichess.org rapid rating, if a player has one. After the first round winners will be paired with other winners and losers with other losers. This will be repeated until the end of the 6 round. This will result in all players being sorted in order of performance. After the 6th round the top two players will play a final. The final will be shown on a large screen in the playing hall. 
+The tournament will be a swiss with 6 rounds.  The first round will be seeded according to Lichess.org rapid rating, if a player has one. The game wont be graded, and you don't need to be a member of the ECF to enter.
+
+After the first round winners will be paired with other winners and losers with other losers. This will be repeated until the end of the 6 round. This will result in all players being sorted in order of performance. After the 6th round the top two players will play a final. The final will be shown on a large screen in the playing hall. 
 
 #### Time control 
 10 + 5 
