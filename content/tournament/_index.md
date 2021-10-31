@@ -13,7 +13,7 @@ Entry form is [here](https://jb38bey88f7.typeform.com/to/IEl8YC7r)
 
 #### Venue
 Sussex Yacht Club
-There will a bar and restaurant serving the lunch menu. Drinks are allowed at the boards but not food.
+There will be a bar and restaurant serving a comprehensive lunch menu. Drinks are allowed at the boards but not food.
 Map is [here](https://shorehamchessclub.com/contact) 
 
 #### Format
