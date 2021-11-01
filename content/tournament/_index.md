@@ -13,7 +13,8 @@ Entry form is [here](https://jb38bey88f7.typeform.com/to/IEl8YC7r)
 
 #### Venue
 Sussex Yacht Club.   
-There is some parking at the venue, and more than enough at the Tarmount Lane carpark which is 100 meters away.
+There is some parking at the venue, and more than enough at the Tarmount Lane carpark which is 100 meters away. 
+The venue is also a 5 minute walk from Shoreham by Sea railway station and the 700 bus stops outside. 
 There will be a bar and restaurant serving a comprehensive lunch menu. Drinks are allowed at the boards but not food.
 Map is [here](https://shorehamchessclub.com/contact) 
 
