@@ -1,7 +1,7 @@
 ---
 title: "Shoreham Rapid Tournament 2021"
 date: 2021-10-31T16:00:07+01:00
-description: "The tournament will be a swiss with 6 rounds. All welcome"
+description: "The tournament will be a swiss with 6 rounds. All welcome!"
 draft: false
 ---
 
